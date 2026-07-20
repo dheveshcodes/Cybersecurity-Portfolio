@@ -1,0 +1,22 @@
+{
+  "name": "dfms-frontend",
+  "version": "1.0.0",
+  "description": "Frontend UI for the Decentralised File Management System",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ethers": "^6.13.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  },
+  "license": "MIT"
+}

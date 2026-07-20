@@ -1,0 +1,4 @@
+This is a sample demo file for testing the Decentralised File Management
+System (DFMS). Upload this file through the frontend or via a direct API
+call to backend/api/files/upload to see it pinned to IPFS and registered
+on-chain with an owner address, content hash, and timestamp.
